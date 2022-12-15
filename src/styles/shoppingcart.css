@@ -1,0 +1,53 @@
+.shopping-cart {
+  background-color: beige;
+}
+
+.shopping-cart--header {
+  text-align: center;
+  background-color: lightgray;
+}
+
+.shopping-cart--content {
+  display: grid;
+  grid-template-columns: 300px;
+  justify-content: center;
+  gap: 1rem;
+  padding: 2rem;
+}
+
+.shopping-cart-book {
+  border: 1px solid black;
+  display: flex;
+  gap: 0.25rem;
+  flex-direction: column;
+  align-items: center;
+  background-color: white;
+  border-radius: 3em;
+  padding: 1em 3em;
+}
+
+.shopping-cart-book--name {
+  font-size: 1.5em;
+  text-align: center;
+}
+
+.shopping-cart-book--author {
+  font-weight: bold;
+}
+
+.shopping-cart-book--price {
+  color: red;
+}
+
+.shopping-cart-book--mul-symbol {
+  color: black;
+}
+
+.shopping-cart-book--quantity {
+  font-weight: bold;
+  color: black;
+}
+
+.shopping-cart--price-sum {
+  text-align: center;
+}

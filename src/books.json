@@ -1,10 +1,38 @@
 [
   {
-    "name": "Book 1",
-    "author": "Author 1"
+    "name": "Fallteknikk",
+    "author": "Inga H. Sætre",
+    "priceNOK": 100,
+    "coverFilePath": "images/bok1.png"
   },
   {
-    "name": "Book 2",
-    "author": "Author 2"
+    "name": "The Complete MAUS",
+    "author": "Art Spiegelman",
+    "priceNOK": 200,
+    "coverFilePath": "images/bok2.png"
+  },
+  {
+    "name": "Mort Cinder",
+    "author": "Alberto Breccia og Héctor Germán Oesterheld",
+    "priceNOK": 300,
+    "coverFilePath": "images/bok3.png"
+  },
+  {
+    "name": "Sue & Tai-chan 3",
+    "author": "Konami Kanata",
+    "priceNOK": 300,
+    "coverFilePath": "images/japansk1.png"
+  },
+  {
+    "name": "Princess Knight",
+    "author": "Osamu Tezuka",
+    "priceNOK": 300,
+    "coverFilePath": "images/japansk2.png"
+  },
+  {
+    "name": "Bomba!",
+    "author": "Osamu Tezuka",
+    "priceNOK": 300,
+    "coverFilePath": "images/japansk3.png"
   }
 ]

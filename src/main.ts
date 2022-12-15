@@ -1,4 +1,6 @@
-import "./style.css";
+import { renderBooks } from "./books";
+import { renderShoppingCart } from "./shoppingCart";
+import "./styles/style.css";
 
-import "./books";
-import "./shoppingCart";
+renderBooks();
+renderShoppingCart();
